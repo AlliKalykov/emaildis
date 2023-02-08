@@ -3,6 +3,7 @@ pip install -m req.txt
 
 Запуск
 python manage.py runserver
+
 admin: admin
 pass: admin12345
 
